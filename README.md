@@ -5,7 +5,7 @@ I am a frontend developer and have 2+ years of experience and working with react
 
 Skills: JS/ HTML / CSS / REACT / NODEJS
 
-- 🔭 I’m currently working on ReactJS, NodeJS & System Design 
+- 🔭 I’m currently working on ReactJS, NodeJS
 - 🌱 I’m currently learning System Design 
 - 👯 I’m looking to collaborate on ReactJS/NodeJS Project 
 - 🤔 I’m looking for help with Career Mentoring 
