@@ -29,12 +29,27 @@
 </p>
 
 <h2 align='center'>
+  Blogs
+</h2>
+
+<p align='center'>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/0" alt="Recent Article 0"></a>&nbsp;&nbsp;
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/1" alt="Recent Article 1"></a>&nbsp;&nbsp;
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/2" alt="Recent Article 2"></a>&nbsp;&nbsp;
+</p>
+
+<h2 align='center'>
   Have exposure into
 </h2>
 
 <p align='center'>
-  PWA, Web Apis, Axios, JWT, <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />,  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />, <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />, <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express-js&logoColor=white&style=for-the-badge" />, <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />, <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />, <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> (Lambda, Rekognition, DynamoDB, S3, Cloudfront, API Gateway), <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" /> (Firebase, Firestore, Cloud Storage, Cloud Run)
+  PWA, Web APIs, Axios, JWT, FaceAPI Js, Tesseract Js,  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />,  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />, <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />, <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express-js&logoColor=white&style=for-the-badge" />, <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />, <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />, <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> (Lambda, Rekognition, DynamoDB, S3, Cloudfront, API Gateway), <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" /> (Firebase, Firestore, Cloud Storage, Cloud Run)
 </p>
+
+<details align="center"> 
+ <summary><b>Checkout My Resume</b></summary>
+ <a href="https://github.com/argodeep/argodeep/raw/master/resume.pdf" target="_blank">Download</a>
+</details>
 
 <h2 align='center'>
   Get in touch
@@ -57,22 +72,7 @@
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-
-<h2 align='center'>
-  Blogs
-</h2>
-
-<p align='center'>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/0" alt="Recent Article 0"></a>&nbsp;&nbsp;
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/1" alt="Recent Article 1"></a>&nbsp;&nbsp;
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arghyadeepJS/2" alt="Recent Article 2"></a>&nbsp;&nbsp;
-</p>
  
-<details align="center"> 
- <summary><b>Checkout My Resume</b></summary>
- <a href="https://github.com/argodeep/argodeep/raw/master/resume.pdf" target="_blank">Download</a>
-</details>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/argodeep/count.svg" />
