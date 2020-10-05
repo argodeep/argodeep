@@ -49,7 +49,7 @@
 <h2 align='center'>Checkout My Resume</h2>
 <details align="center"> 
  <summary>Download</summary>
- <a target="_blank" href="https://github.com/argodeep/argodeep/raw/master/resume.pdf">Click Here</a>
+ <a target="_blank" href="https://github.com/argodeep/argodeep/raw/master/Arghyadeep-resume.pdf">Click Here</a>
 </details>
 
 <h2 align='center'>
