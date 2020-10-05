@@ -7,7 +7,7 @@
 <p align='center'>
  🔭 I’m currently working on ReactJS, Angular & NodeJS.
  💬 Ask me about Javascript, ReactJS & Front-End.
- 📫 How to reach me: Join me at <a href="https://www.linkedin.com/in/argodeep">LinkedIn</a> or tweet <a href="https://twitter.com/argodeep">@argodeep</a>
+ 📫 How to reach me: Join me at <a target="_blank" href="https://www.linkedin.com/in/argodeep">LinkedIn</a> or tweet <a target="_blank" href="https://twitter.com/argodeep">@argodeep</a>
  🌱 I’m currently learning System Design, Database ORM & Kubernetes
  ⚡ Fun fact: I m not from IIT, NIT or even CSE.
  😀 Interested in Product Development.
@@ -49,7 +49,7 @@
 <h2 align='center'>Checkout My Resume</h2>
 <details align="center"> 
  <summary>Download</summary>
- <a href="https://github.com/argodeep/argodeep/raw/master/resume.pdf" target="_blank">Click Here</a>
+ <a target="_blank" href="https://github.com/argodeep/argodeep/raw/master/resume.pdf">Click Here</a>
 </details>
 
 <h2 align='center'>
@@ -57,19 +57,19 @@
 </h2>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/argodeep">
+  <a target="_blank" href="https://www.linkedin.com/in/argodeep">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/argodeep">
+  <a target="_blank" href="https://twitter.com/argodeep">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/argodeep">
+  <a target="_blank" href="https://github.com/argodeep">
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UC1uhyZ_nyoAYyqEUd9rQT4g">
+   <a target="_blank" href="https://www.youtube.com/channel/UC1uhyZ_nyoAYyqEUd9rQT4g">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://medium.com/@arghyadeepJS">
+   <a target="_blank" href="https://medium.com/@arghyadeepJS">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
