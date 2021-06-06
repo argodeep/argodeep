@@ -1,15 +1,15 @@
 <h1 align='center'>Hi there 👋, I am Arghyadeep</h1>
 
-<p align='center'>Frontend developer and have 2+ years of experience</p>
+<p align='center'>Software Developer with 2+ years of experience</p>
 
 ![](https://raw.githubusercontent.com/argodeep/argodeep/master/cover-new.png)
 
 <p align='center'>
- 🔭 I’m currently working on ReactJS, Angular & NodeJS.
- 💬 Ask me about Javascript, ReactJS & Front-End.
+ <br> 🔭 I’m currently working on ReactJS & NodeJS.
+ 🌱 Learning System Design, Database ORM & Kubernetes
+ <br> 💬 Ask me about Javascript, ReactJS & Front-End.
  📫 How to reach me: Join me at <a target="_blank" href="https://www.linkedin.com/in/argodeep">LinkedIn</a> or tweet <a target="_blank" href="https://twitter.com/argodeep">@argodeep</a>
- 🌱 I’m currently learning System Design, Database ORM & Kubernetes
- ⚡ Fun fact: I m not from IIT, NIT or even CSE.
+ <br> ⚡ Fun fact: I m not from IIT, NIT or even CSE.
  😀 Interested in Product Development.
 </p>
 
@@ -46,11 +46,11 @@
   PWA, Web APIs, Axios, JWT, FaceAPI Js, Tesseract Js,  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />,  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />, <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />, <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express-js&logoColor=white&style=for-the-badge" />, <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />, <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />, <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> (Lambda, Rekognition, DynamoDB, S3, Cloudfront, API Gateway), <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" /> (Firebase, Firestore, Cloud Storage, Cloud Run)
 </p>
 
-<h2 align='center'>Checkout My Resume</h2>
+<!-- <h2 align='center'>Checkout My Resume</h2>
 <details align="center"> 
  <summary>Download</summary>
  <a target="_blank" href="https://github.com/argodeep/argodeep/raw/master/Arghyadeep-resume.pdf">Click Here</a>
-</details>
+</details> -->
 
 <h2 align='center'>
   Get in touch
