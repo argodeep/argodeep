@@ -37,7 +37,8 @@ The accepted diffs metric matters most — it reflects code that was good enough
 
 ### 🎤 Talks & Recognition
 
-- Talk proposal *"Text Detection with AWS Rekognition"* considered at **AppJS Conference, Europe 2020**
+- Talk proposal *"Text Detection with AWS Rekognition"* at **AppJS Conference, Europe 2020**
+- Talk proposal *"From Flutter to Expo in 90 Days: How AI-Powered Development Accelerated Our React Native Migration"* at **AppJS Conference, Europe 2026**
 - HackerRank certified · LinkedIn Skill Badges
 
 ---
