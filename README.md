@@ -8,6 +8,20 @@ Writing code that runs at scale for millions of users. Hands-on across the full 
 
 ---
 
+### 🤖 AI as a working habit, not a hype cycle
+
+AI adoption for me was never about just using a tool — it was about changing how I work and how much impact I can create. I made it a regular part of my engineering workflow: applying it to real problems, moving faster without compromising quality.
+
+That consistency showed up in the numbers — currently **ranked #1** on my team's AI adoption leaderboard:
+
+| Metric | Count |
+|---|---|
+| Lines of code changed | **641,650** |
+| Accepted diffs | **12,550** |
+| Tab completions | **5,984** |
+
+---
+
 ### 🔍 A few things I've built
 
 - 🎥 **[Screen Recorder + Webcam](https://github.com/argodeep/Screen-Recorder-with-webcam)** — offline-first screen & cam recorder with React
