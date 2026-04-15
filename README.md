@@ -24,8 +24,6 @@ When AI coding tools rolled out across the org, most engineers tried them. I com
 
 The accepted diffs metric matters most — it reflects code that was good enough to actually ship. That number only grows when you understand your codebase deeply enough to guide the model, not just prompt it blindly.
 
-> Tool: Cursor AI (composer-1) · Org: Xoxoday · 91 engineers · Aug 2025 – Apr 2026
-
 ---
 
 ### 🔍 A few things I've built
