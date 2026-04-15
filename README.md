@@ -6,22 +6,15 @@ I care about what I build — and I try to build it well.
 I have 7+ years of experience designing and shipping products end to end, in production.
 From microservices to React & React Native frontends — for millions of users across global enterprises and clients. Every layer, every cycle.
 
-**Stack:** React · React Native · Node.js · JavaScript · Microservices · System Design · Mobile App
+**Stack:** React · React Native · Node.js · TypeScript · Microservices · WebRTC · WebSockets
 
 ---
 
-### 🤖 AI Adoption Story — Q3 2025 to Q1 2026
+### 🤖 AI Adoption Story
 
 > *Out of 91 engineers at Xoxoday, I ranked **#1** on the AI usage leaderboard. This is how it happened.*
 
-**Q3 2025 — The shift in habit**
-Cursor AI landed in our workflow. While most engineers used it occasionally, I committed to making it a daily collaborator — not a shortcut, but a thinking partner. Architecture reviews, code reviews, debugging, migrations. Every layer.
-
-**Q4 2025 — Compounding over time**
-The discipline of prompt crafting, context window management, and knowing *when not to trust the model* started compounding. I was shipping more, faster, without cutting corners on quality. Accepted diffs climbed because the suggestions were actually correct — and I knew enough to validate them.
-
-**Q1 2026 — The leaderboard tells the story**
-By April 2026, the numbers were in. Across 91 engineers, I had generated nearly **2× the agent lines of code** of the second-ranked engineer.
+When AI coding tools rolled out across the org, most engineers tried them. I committed to making AI a daily collaborator — not a shortcut, but a thinking partner across architecture, code reviews, debugging, and migrations. The discipline of prompt crafting, context window management, and knowing *when not to trust the model* started compounding — I was shipping more, faster, without cutting corners on quality. Accepted diffs climbed because the suggestions were actually correct, and I knew enough to validate them. By Q1 2026, the numbers were in: across 91 engineers, I had generated nearly **2× the agent lines of code** of the second-ranked engineer.
 
 | Metric | Count |
 |---|---|
