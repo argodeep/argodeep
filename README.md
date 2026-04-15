@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Arghyadeep 👋
 
-<!--
-**argodeep/argodeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with **6+ years** of shipping production-grade features — from microservices to React & React Native frontends — currently at **Xoxoday**.
 
-Here are some ideas to get you started:
+Writing code that runs at scale for millions of users. Hands-on across the full E2E development cycle, contributing to 4–5 microservices in parallel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** React · React Native · Node.js · TypeScript · Microservices · WebRTC · WebSockets
+
+---
+
+### 🔍 A few things I've built
+
+- 🎥 **[Screen Recorder + Webcam](https://github.com/argodeep/Screen-Recorder-with-webcam)** — offline-first screen & cam recorder with React
+- 🔍 **[Google Lens Clone](https://github.com/argodeep/Google_lens-ReactNative)** — text recognition via AWS Rekognition in React Native
+- 📰 **MicroNEWZY** — my own micro news service
+- 📦 **[ngx-light-pagination](https://github.com/argodeep/Ngx-Light-Pagination)** — lightweight Angular pagination library (npm)
+
+---
+
+### 🎤 Talks & Recognition
+
+- Talk proposal *"Text Detection with AWS Rekognition"* considered at **AppJS Conference, Europe 2020**
+- HackerRank certified · LinkedIn Skill Badges
+
+---
+
+🌐 [arghyadeep.com](https://www.arghyadeep.com) &nbsp;·&nbsp; 🐦 [@argodeep](https://twitter.com/argodeep)
