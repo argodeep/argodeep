@@ -14,7 +14,7 @@ From microservices to React & React Native frontends — for millions of users a
 
 > *I ranked #1 on my org's AI usage leaderboard. This is how it happened.*
 
-When AI coding tools rolled out across the org, most engineers tried them. I committed to making AI a daily collaborator — not a shortcut, but a thinking partner across architecture, code reviews, debugging, and migrations. The discipline of prompt crafting, context window management, and knowing *when not to trust the model* started compounding — I was shipping more, faster, without cutting corners on quality. Accepted diffs climbed because the suggestions were actually correct, and I knew enough to validate them. By Q1 2026, the numbers were in: across 91 engineers, I had generated nearly **2× the agent lines of code** of the second-ranked engineer.
+When AI coding tools rolled out across the org, most engineers tried them. I committed to making AI a daily collaborator — not a shortcut, but a thinking partner across architecture, code reviews, debugging, and migrations. The discipline of prompt crafting, context window management, and knowing *when not to trust the model* started compounding — I was shipping more, faster, without cutting corners on quality. Accepted diffs climbed because the suggestions were actually correct, and I knew enough to validate them. By Q1 2026, the numbers were in: I had generated nearly **2× the agent lines of code** of the second-ranked engineer.
 
 | Metric | Count |
 |---|---|
