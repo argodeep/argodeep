@@ -1,8 +1,10 @@
-## Hi, I'm Arghyadeep 👋
+## Arghyadeep Majumder 👋
+Senior Engineer · Full-Stack · AI-augmented
 
-Senior Software Engineer with **7+ years** of shipping production-grade features — from microservices to React & React Native frontends — currently at **Xoxoday**.
+I build things that scale — and I ship them faster than most.
 
-Writing code that runs at scale for millions of users. Hands-on across the full E2E development cycle, contributing to 4–5 microservices in parallel.
+7+ years across full-stack engineering at **Xoxoday** — end to end, in production.
+From microservices to React & React Native frontends. Every layer, every cycle.
 
 **Stack:** React · React Native · Node.js · TypeScript · Microservices · WebRTC · WebSockets
 
