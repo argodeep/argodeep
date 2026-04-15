@@ -1,6 +1,6 @@
 ## Hi, I'm Arghyadeep 👋
 
-Senior Software Engineer with **6+ years** of shipping production-grade features — from microservices to React & React Native frontends — currently at **Xoxoday**.
+Senior Software Engineer with **7+ years** of shipping production-grade features — from microservices to React & React Native frontends — currently at **Xoxoday**.
 
 Writing code that runs at scale for millions of users. Hands-on across the full E2E development cycle, contributing to 4–5 microservices in parallel.
 
