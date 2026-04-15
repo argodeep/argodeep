@@ -6,7 +6,7 @@ I care about what I build — and I try to build it well.
 I have 7+ years of experience designing and shipping products end to end, in production.
 From microservices to React & React Native frontends — for millions of users across global enterprises and clients. Every layer, every cycle.
 
-**Stack:** React · React Native · Node.js · TypeScript · Microservices · WebRTC · WebSockets
+**Stack:** React · React Native · Node.js · JavaScript · Microservices · System Design · Mobile App
 
 ---
 
