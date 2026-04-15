@@ -8,17 +8,13 @@ Writing code that runs at scale for millions of users. Hands-on across the full 
 
 ---
 
-### 🤖 AI as a working habit, not a hype cycle
+### 🤖 On AI and how I work
 
-AI adoption for me was never about just using a tool — it was about changing how I work and how much impact I can create. I made it a regular part of my engineering workflow: applying it to real problems, moving faster without compromising quality.
+AI adoption for me was never about just using a tool — it was about changing how I work and how much impact I can create.
 
-That consistency showed up in the numbers — currently **ranked #1** on my team's AI adoption leaderboard:
+I treat AI not as a shortcut, but as a collaborator: knowing when to lean on it, when to push back, and how to keep quality high while moving faster. That habit shows up across every layer — architecture, code review, debugging, migrations, and writing.
 
-| Metric | Count |
-|---|---|
-| Lines of code changed | **641,650** |
-| Accepted diffs | **12,550** |
-| Tab completions | **5,984** |
+The result isn't a leaderboard position. It's the ability to take on harder problems, cut repetitive drag, and spend more time on the things that actually require judgment.
 
 ---
 
