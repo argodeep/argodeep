@@ -1,12 +1,14 @@
 ## Arghyadeep Majumder 👋
-Senior Engineer & Solution Architect · Full-Stack · AI-Augmented
+Senior Engineer & Tech Lead · Full-Stack · AI-Augmented
 
 I care about what I build — and I try to build it well.
 
-I have 7+ years of experience designing and shipping products end to end, in production.
+I have 7+ years of experience leading and shipping products end to end, in production.
 From microservices to React & React Native frontends — for millions of users across global enterprises and clients. Every layer, every cycle.
 
-**Stack:** React · React Native · Node.js · JavaScript · Microservices · System Design · Mobile App
+I enjoy owning problem definition, architecture, execution, and team velocity — turning ambiguity into reliable product outcomes.
+
+**Stack:** React · React Native · Node.js · JavaScript · Microservices · System Design · Mobile App · Tech Leadership
 
 ---
 
